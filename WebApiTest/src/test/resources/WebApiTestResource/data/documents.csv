@@ -1,0 +1,20 @@
+﻿RunTest,Feature,Scenario,URL,Browser,UserName,Password,DocumentName,Client,DocumentCategory,DocumentSubcategory,DocumentType,ImageCount,IdividualRefNo,FullName
+Y,Documents,Delete Records,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,
+Y,Documents,Login,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,
+Y,Documents,Upload Document,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified - Drivers Licence.pdf,,,,,,,
+Y,Documents,Verify Error Message,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified ID - Medicare and Passport - Carlos_CAB001.pdf,,,,,,,
+Y,Documents,Verify Confirm Check,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DL passport & medicare_KIM048.pdf,Jordan Chong,Other,Other,Other,,,
+Y,Documents,Verify All Original,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DL passport & medicare_KIM048.pdf,Jordan Chong,Other,Other,Other,3,,
+Y,Documents,Verify Status Post View Document,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified - Drivers Licence.pdf,,,,,,,
+Y,Documents,Integrate Document to Dynamics,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified - Drivers Licence.pdf,,,,,,,
+Y,Documents,Send to Dynamics,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DL passport & medicare_KIM048.pdf,Jordan Test 123,,,,,,
+Y,Documents,Reset Documents,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DL passport & medicare_KIM048.pdf,Jordan Test 123,,,,,,
+Y,Documents,Clear Client,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DL passport & medicare_KIM048.pdf,Jordan Test 123,,,,,,
+Y,Documents,Edit Medicare Individual Reference Number,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified ID - Medicare and Passport - Carlos_CAB001.pdf,Jordan Chong,,,,,2,Maria D Cabrera
+Y,Documents,Validate Individual Reference Number,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified ID - Medicare and Passport - Carlos_CAB001.pdf,Jordan Chong,,,,,,
+Y,Documents,Upload Multi Document,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,"Certified - Drivers Licence.pdf,DLnsw_MC2.png",Jordan Chong,,,,,,
+Y,Documents,Licence Back Address Should be Matched To Front,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DLqld2.jpg,"Jordan Chong,Jordan Test 123",,,,,,
+Y,Documents,Licence Back Address Should be Matched To Front Positive,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DLsa1.png,Jordan Chong,,,,,,
+Y,Documents,Validate Mandatory Individual Reference Number,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified ID - Medicare and Passport - Carlos_CAB001.pdf,Jordan Chong,,,,,,
+Y,Documents,Validate Mandatory Fields for Medicare,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,Certified ID - Medicare and Passport - Carlos_CAB001.pdf,Jordan Chong,,,,,,Test
+Y,Documents,Validate Mandatory Fields Licence,https://cre-uat-document-internal-web.azurewebsites.net/,chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,DLnsw_MC2.png,Jordan Chong,,,,,,Test

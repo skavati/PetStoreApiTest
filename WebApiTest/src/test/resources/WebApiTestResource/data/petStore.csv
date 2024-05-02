@@ -1,0 +1,4 @@
+RunTest,Feature,Scenario,URL
+Y,Pet Store,Find Pet By Id,https://petstore.swagger.io/v2/pet/25
+Y,Pet Store,Update Pet Name,https://petstore.swagger.io/v2/pet
+Y,Pet Store,Delete Pet,https://petstore.swagger.io/v2/pet/9

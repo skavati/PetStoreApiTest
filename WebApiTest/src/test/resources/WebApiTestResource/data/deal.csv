@@ -1,0 +1,89 @@
+﻿RunTest,Feature,Scenario,URL,Browser,UserName,Password,Owner,ActionStatus,Client,Priority,FinanceType,Funder,No,Amount,ClientLiaison,NewActionStatus,NewClient,NewPriority,NewFinanceType,NewFunder,NewContractNo,NewAmount,ExpectedSettlementToDate,ExpectedSettlementFromDate,,,NewOwner,FirstName,DealsPerPage,GoodsDescription,MarketingLabel,DynamicsURL,Country,LastName,StatusReason,DisqualifyReason,CustomerType,Branch,LeadSource,Branch,PreferredMethodOfContact,NewActionStatus,BestContactTime,,Users,OpportunityName
+Y,Weave App,New Deal,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,150000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Update Comment Status & notify user,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,AMP,123,125000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sarath Kavati,
+Y,Weave App,Update Field Status,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,Pending Client,CBA,Cold,Top Up (Variable),On Balance Sheet,111,45000,Sarath Kavati,Settled,Luu Family Trust,Hot,Overdraft Amortising (Fixed),Think Tank,222,50000,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Reset,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,150000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Refresh Deal Worksheet,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,CBA,Warm,Variable Asset Loan,AMP,123,100000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Filter & Sort in the local storage of Weave app,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,10000,Sarath Kavati,,,,,,,20000,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Sales users check the Weave app,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,3,30,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Sales users filter by Settlement date,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,CBA,Hot,Variable Asset Loan,AMP,113,142000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,"Sales users filter by Current Month, Next Month or Future Deals","https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,CBA,Hot,Variable Asset Loan,ANZ,114,132000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Open sales report in Weave app,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Settlement field only permit Date,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Enter different letters in the Amount Financed Field,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,AMP,456,45000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Missing Mandatory Fields when user Manually enter a new deal in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,With CL,,Warm,,AMP,456,,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Update Lead Owner in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,Jordan Chong,Sarath,,,,,,,,,,,,,,,,,,
+Y,Weave App,"Users set up the view by showing 20 Deals, 50 Deals or 100 Deals per page","https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,,50,,,,,,,,,,,,,,,,,
+Y,Weave App,Add Good Description Field in the deal worksheet view,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,AMP,123,125000,Sarath Kavati,,,,,,,,,,,,,,,Testing,,,,,,,,,,,,,,,,
+Y,Weave App,Reset filter in Leads view,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,Jordan,,,Jordan testing - Vet dropdown,,,,,,,,,,,,,,,
+Y,Weave App,Refresh Leads button,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,,,,,,,,,,,
+Y,Weave App,Qualify Lead in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,,,,,,,,,,,
+Y,Weave App,Disqualify Lead in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,Deal declined by credit,,,,,,,,,,,
+Y,Weave App,Duplicate Lead,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,,,,,,,,,,,
+Y,Weave App,User Opens Dynamics using the D365 Icon,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Disqualify Lead in Dynamics and check it displays in Weave,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,Poor credit rating,,,,,,,,,,
+Y,Weave App,Fix Duplicate error in Dynamics,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,Poor credit rating,Individual,NSW,,,,,,,,
+Y,Clean up filter of Expected Settlement Date and Modified on,Fix Duplicate error in Dynamics,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Close as Lost deals in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,150000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,Approval Expired,,,,,,,,,,,
+Y,Weave App,Open the Weave app to check the leads,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Re-active lead in Weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,Marketing Lead,,,,,,,,,,
+Y,Weave App,Filter by clicking the drop-down arrow in deals view,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,Pending Client,Aleden Pty Ltd,Warm,Goodwill (Variable),AMP,123,125000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Check the totals in weave App,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,Pending Client,Aleden Pty Ltd,Warm,Goodwill (Variable),AMP,125,1000,Sarath Kavati,,,,,,,500,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Check the comment status history in particular deal,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,Pending Client,Aleden Pty Ltd,Warm,Goodwill (Variable),AMP,123,10000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Open the Weave app to check the leads,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Check the comment status history in particular lead,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,,,,,,,,,,,
+Y,Weave App,"In the Full-screen, manually enter a new deal in Weave","https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,150000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Check and update a deal,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,#SPILL!,,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,150000,Sarath Kavati,Settled,Luu Family Trust,Hot,Overdraft Amortising (Fixed),Think Tank,222,50000,,,,,,,,,,,,,,,,,,,,,,,,
+Y,Weave App,Check and update a Lead,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,,,,,LinkedIn,NSW,Phone,,Evening,,,
+Y,Weave App,Update the comments after the lead is closed,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,Multiple Reasons,,,,,,,,,,,
+Y,Weave App,Update the action status and comments after the deal is closed,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,Duplicate,,,,,,,Pending Client,,,,
+Y,Weave App,Add comments after the deal is closed and notify the user,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,Duplicate,,,,,,,Pending Client,,,Sarath Kavati,
+Y,Weave App,"The user check the WON or Lost deal, the entire page is read-only","https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,,,,,,,,Duplicate,,,,,,,Pending Client,,,Sarath Kavati,
+Y,Weave App,Add comments after the lead is disqualified and notify the user,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,,,,,,,,,,,,,,,,,,,,,,,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,Multiple Reasons,,,,,,,,,,Sarath Kavati,Deal close as WON
+Y,Weave App,"The user check the Originated By field, when the deal is WON","https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,With CL,Aleden Pty Ltd,Warm,Variable Asset Loan,ANZ,125,124000,Sarath Kavati,,,,,,,,,,,,,Sarath,,Testing,,,,,,,,,Facebook,NSW,,,,,Sarath Kavati,Deal close as WON
+Y,Weave App,Update Lead comment status & notify user,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,,,,,,,,,,,,,,,,,,,,,Sarath,,,,https://credabluat.crm6.dynamics.com/main.aspx?,Australia,Kavati,Multiple Reasons,,,,,,,,,,Sarath Kavati,
+Y,Weave App,Leads are filtered & sort in the local storage of Weave app,"https://cre-uat-weave.azurewebsites.net/
+",chrome,svc-test-automation@credabl.com.au,=)&Usw?^NM%P3>;?,svc-test automation,,,,,,,,,,,,,,,,,,,,,Sarath,,,,,,,,,,,,,,,,,,
