@@ -6,3 +6,6 @@
 # run "mvn clean install"
 # Change directory to "WebApiTest" Project
 # run "mvn clean verify"
+
+# Test Report:
+Once tes run completes, find test report at "target\TestReport\CommunityAppTest\TestReort.html"
